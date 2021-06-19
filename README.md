@@ -23,3 +23,9 @@ The base changes in this mod are as follows:
   - 2P Action: 2P Control
   - Show Inputs: Off
   - Chakra Recovery: Off
+
+## Credits
+
+- Kosheh for the English translations
+- TheCape for fixes to P2-only behavior
+- Potato for [SEQ Kage](https://github.com/mitchellhumphrey/seq-kage) and SEQ expansion.
